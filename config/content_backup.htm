@@ -28,6 +28,16 @@
 <p>以<span> </span><a href="http://www.leoeditor.com/">Leo Editor</a><span> </span>開啟 config/pelican.leo </p>
 <p>各分組必須自行更改 @edit pelicanconf.py 中的 AUTHOR 與 SITENAME</p>
 <p>更改 @edit publishconf.py 中的 SITEURL</p>
+<h1>測試頁面</h1>
+<p><img alt="" height="380" src="/images/123.jpg" width="507"/></p>
+<p><img alt="" height="337" src="/images/456.jpg" width="506"/></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">@app.route('/delete_file', methods=【'POST'】)
+def delete_file():
+  """Dekete user uploaded files."""
+  if not isAdmin():
+      return redirect("/login")
+  head,level,page =parse_content()
+  directory =render_menu(head,level,page)</pre>
 <h1>組員操作影片 </h1>
 <h2>week1</h2>
 <p>建立個人網站</p>
