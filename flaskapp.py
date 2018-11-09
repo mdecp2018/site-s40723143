@@ -1785,7 +1785,7 @@ def set_admin_css():
     outstring = '''<!doctype html>
 <html><head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<title>期末分組專案</title> \
+<title>CMSimfly</title> \
 <link rel="stylesheet" type="text/css" href="/static/cmsimply.css">
 ''' + syntaxhighlight()
 
@@ -1836,7 +1836,7 @@ def set_css():
     outstring = '''<!doctype html>
 <html><head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<title>期末分組專案</title> \
+<title>CMSimfly</title> \
 <link rel="stylesheet" type="text/css" href="/static/cmsimply.css">
 ''' + syntaxhighlight()
 
@@ -1893,7 +1893,7 @@ def set_css2():
     outstring = '''<!doctype html>
 <html><head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<title>期末分組專案</title> \
+<title>CMSimfly</title> \
 <link rel="stylesheet" type="text/css" href="./../static/cmsimply.css">
 ''' + syntaxhighlight2()
 
@@ -2060,11 +2060,6 @@ def syntaxhighlight():
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
 -->
-<style>
-img {
-    border: 6px solid green ;
-}
-</style>
 '''
 
 
@@ -2117,11 +2112,6 @@ init_mathjax();
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
 -->
-<style>
-img {
-    border: 6px solid green ;
-}
-</style>
 '''
 
 
