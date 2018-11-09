@@ -1,8 +1,8 @@
 .container {
   position: relative;
+  color:white ;
 }
 header{
-  background: #ccc;
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,8 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url:(https://scontent-atl3-1.cdninstagram.com/vp/c719c19019bfb899cc631709d01d35e5/5C3862C0/t51.2885-15/e35/36552104_207123819973155_8110495016314470400_n.jpg);
   margin-bottom: 120px;
+  background-size:100%
 }
 
