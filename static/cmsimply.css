@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background:url();
+  background: 
   padding: 20px;
 }
 confmenu
@@ -27,7 +27,8 @@ confmenu li a
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;background: #333;
+	color: #fff;
+	background: #333;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -201,6 +202,7 @@ width: 195px;
 }
 body {
   margin-bottom: 120px;
-  background-image:url:(https://scontent-sea1-1.cdninstagram.com/vp/7ac3ddc4e38ea055c2578e3d95d613dd/5C5AFB50/t51.2885-15/e35/17817808_1758096931187323_8603856311878156288_n.jpg?se=7&ig_cache_key=MTQ4OTAzMDQxMDMzODk1MDI4OA%3D%3D.2);
+  background-image:url(https://scontent-sea1-1.cdninstagram.com/vp/7ac3ddc4e38ea055c2578e3d95d613dd/5C5AFB50/t51.2885-15/e35/17817808_1758096931187323_8603856311878156288_n.jpg?se=7&ig_cache_key=MTQ4OTAzMDQxMDMzODk1MDI4OA%3D%3D.2);
+  background-size:100%
 }
 
